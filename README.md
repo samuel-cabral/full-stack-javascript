@@ -1,3 +1,3 @@
-# full-stack-javascript
+# curso full-stack-javascript em 8 semanas
 
-### repositorio para exercícios do curso full-stack javascript da OneBitCode
+### repositorio do curso full-stack javascript em 8 semanas do OneBitCode
