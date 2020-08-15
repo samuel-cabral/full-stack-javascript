@@ -1,0 +1,27 @@
+:root {
+  --color-yellow: #f1c40f;
+  --color-red: #e74c3c;
+  --color-background: #2c3e50;
+}
+
+body {
+  background-color: var(--color-background);
+  color: #fff;
+}
+
+h1 {
+  color: #fff;
+}
+
+#days-of-week h3 {
+  color: var(--color-yellow);
+}
+
+#activities h2 {
+  color: #111;
+  background-color: var(--color-yellow);
+}
+
+#astronomy-class {
+  color: var(--color-red);
+}
